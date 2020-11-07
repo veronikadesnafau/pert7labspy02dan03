@@ -10,21 +10,17 @@
 ### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
 
-  
- A = int (input("40"))
-
- B = int (input("25"))
- 
- C = int (input("35"))
-
-if A > B and A > C :
-
+ ``` python
+A = int(input("40"))
+B = int(input("25"))
+C = int(input("35"))
+if A > B and A > C:
     print(A, "A")
-
-elif B > A and B > C :
-
+elif B > A and B > C:
     print(B, "A")
-
 else:
-  
-    print(c, "A")
+    print(C, "A")
+```
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
