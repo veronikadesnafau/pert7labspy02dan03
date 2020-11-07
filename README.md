@@ -31,7 +31,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 #### Flowchart 
 
-
+![flowchat](https://user-images.githubusercontent.com/73016496/98447816-6201f200-215a-11eb-97b7-53e2a1f416a6.png)
 
 
 # Praktikum 3
@@ -73,5 +73,6 @@ Untuk Pengulangan dengan range jumlah print.
     b = random.uniform(.0, .5)
 ```
 Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5.
+
 
 
