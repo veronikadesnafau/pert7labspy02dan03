@@ -31,7 +31,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 #### Flowchart 
 
-<img width="332" alt="ss 3(prkt 3)" src="https://user-images.githubusercontent.com/73053784/98434287-f3dd1100-2100-11eb-9acc-9b61c5149b62.png">
+
 
 
 # Praktikum 3
