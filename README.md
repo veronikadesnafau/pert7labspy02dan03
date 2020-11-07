@@ -27,3 +27,9 @@ else:
 Dibawah ini merupakan hasil output dari syntax diatas
 
 ![1](https://user-images.githubusercontent.com/73016496/98446806-d6d12e00-2152-11eb-97e5-fac6671fd17c.png)
+
+
+#### Flowchart 
+
+
+
