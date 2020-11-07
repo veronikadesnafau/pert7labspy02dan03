@@ -26,13 +26,12 @@ else:
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![1](https://user-images.githubusercontent.com/73016496/98446806-d6d12e00-2152-11eb-97e5-fac6671fd17c.png)
+![1](https://user-images.githubusercontent.com/73016496/98446806-d6d12e00-2152-11eb-97e5-fac6671fd17c.png)z
 
 
 #### Flowchart 
 
-<img width="389" alt="F" src="https://user-images.githubusercontent.com/73016496/98446954-e3a25180-2153-11eb-950e-6fef8406428f.png">
-
+<img width="389" alt="F" src="https://user-images.githubusercontent.com/73016496/98446954-e3a25180-2153-11eb-950ez
 
 # Praktikum 3
 <img width="334" alt="ss1 (prkt 3)" src="https://user-images.githubusercontent.com/73053784/98433884-7794fe80-20fd-11eb-94c1-f16262510bb3.png">
@@ -42,5 +41,36 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 ### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
+
+ ``` python
+print('Bilangan Acak Yang Lebih Kecil Dari 0.5')
+import random
+n = int ( input ("Masukkan Nilai;"))
+a = 0
+for c in range (n):
+    a+= 1
+    b = random.uniform(.0, .5)
+    print('data ke:', a, '==>', b)
+    print("selesai")
+```
+
+Penjelasan program menampilkan n Bilangan acak yang lebih kecil dari 0.5
+``` python
+print('Bilangan Acak Yang Kecil Dari 0.5')
+```
+Untuk Menampilkan atau Mencetak kalimat Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5.
+``` python
+n = int ( input ("Masukkan Nilai;"))
+```
+Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat import random Untuk pengulangan secara acak.
+``` python
+for c in range (n):
+```
+Untuk Pengulangan dengan range jumlah print.
+``` python
+ a+= 1
+    b = random.uniform(.0, .5)
+```
+Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5.
 
 
