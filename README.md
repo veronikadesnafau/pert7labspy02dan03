@@ -12,11 +12,19 @@ berikut merupakan syntax untuk menampilkan program diatas
 
   
  A = int (input("40"))
+
  B = int (input("25"))
+ 
  C = int (input("35"))
+
 if A > B and A > C :
-   print(A, "A")
+
+    print(A, "A")
+
 elif B > A and B > C :
-   print(B, "A")
+
+    print(B, "A")
+
 else:
-   print(c, "A")
+  
+    print(c, "A")
