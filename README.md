@@ -142,3 +142,50 @@ Menampilkan Bilangan Terbesar Adalah : Nilai maximumnya.
 
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
+
+![3](https://user-images.githubusercontent.com/73016496/98457097-c5217200-21b6-11eb-8305-452ef7c11326.png)
+
+
+#### Program 1
+### SYNTAX
+berikut merupakan syntax untuk menampilkan program diatas
+``` python
+x=100000000
+
+sum=0
+
+y=0
+lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x) * .5, int(x) * .2]
+
+print('modal awal seorang pengusaha:', x)
+
+for i in lb :
+
+    sum=sum+i
+
+    y+=1
+
+    print('laba bulan ke-', y, 'sebesar :', i)
+
+print('total laba yang didapat adalah:', sum)
+```
+Penjelasan Program
+``` python
+x=100000000
+```
+Menampilkan kalimat Modal Awal : dan data yang berisi di n yaitu 100000000.
+``` python
+lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x) * .5, int(x) * .2]
+```
+Untuk Mendeklarasikan presentase laba tiap bulan dan di kali dengan x atau data inputan modal investasi yaitu 100000000.
+``` python
+print('laba bulan ke-', y, 'sebesar :', i)
+```
+untuk perulangan data dengan isi data yaitu Y dengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y.
+``` python
+print('total laba yang didapat adalah:', sum)
+```
+berisi data penjumlahan data angka yang ada didalam kode A,B,C,D,E,F,G,H yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan.
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
