@@ -143,7 +143,10 @@ Menampilkan Bilangan Terbesar Adalah : Nilai maximumnya.
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![3](https://user-images.githubusercontent.com/73016496/98457097-c5217200-21b6-11eb-8305-452ef7c11326.png)
+![3a](https://user-images.githubusercontent.com/73016496/98457622-d0c36780-21bb-11eb-8456-1481ca6c5fd8.png)
+
+![3b](https://user-images.githubusercontent.com/73016496/98457636-e9338200-21bb-11eb-9f7e-f61fe9b08e7e.png)
+
 
 
 #### Program 1
@@ -189,3 +192,4 @@ berisi data penjumlahan data angka yang ada didalam kode A,B,C,D,E,F,G,H yang ak
 
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
+
