@@ -1,7 +1,7 @@
 ## Pertemuanke7Labspy02dan03
 **NAMA      : VERONIKA DESNA ERNAYANTI FAU** <br>
 **NIM       : 312010333** <br>
-**KELAS 	  	: TI.20-A2** <br>
+**KELAS 	  	: TI 20-A2** <br>
 **MATKUL 	  : BAHASA PEMROGRAMAN** <br>
 
 # Tugas Praktikum 2
