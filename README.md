@@ -193,3 +193,10 @@ berisi data penjumlahan data angka yang ada didalam kode A,B,C,D,E,F,G,H yang ak
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
+![4a](https://user-images.githubusercontent.com/73016496/98457641-fbadbb80-21bb-11eb-9417-50958339038a.png)
+
+![4b](https://user-images.githubusercontent.com/73016496/98457649-0bc59b00-21bc-11eb-8a0a-3e2742996fd0.png)
+
+
+
+##VeRoNiKa DeSnA eRnAyAnTi FaU-312010333
